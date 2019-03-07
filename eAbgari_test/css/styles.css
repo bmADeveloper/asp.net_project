@@ -1,0 +1,87 @@
+﻿.bannertop {
+    background-color: #b0a5e0;
+}
+.navbar-list {
+    top: 70px;
+}
+.body-space {
+    margin-top: 5px;
+}
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+    position:relative;
+}
+.logo {
+    width: 68px;
+    height: 63px;
+}
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: #d6cde2;
+}
+.navbar {
+    margin-bottom: 0px;
+    min-height: 51px;
+}
+
+ 
+
+
+/*navbar stricky */
+.header {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #9377cc;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.content {
+    padding: 16px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 60px;
+}
+
+
+
+.panel-default {
+    margin-top: 25px;
+    border-color: #b07ece;
+}
+.align{
+    text-align:center;
+}
+ 
